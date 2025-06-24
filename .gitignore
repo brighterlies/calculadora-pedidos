@@ -1,0 +1,19 @@
+# Archivos y carpetas de Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Configuración del entorno
+*.log
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación temporales
+*.swp
