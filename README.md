@@ -1,7 +1,5 @@
 # GRUPO 9 Ejercicio Guiado: Pruebas Unitarias con JUnit en una Calculadora de Pedidos
 
-----------------
-
 ## Preguntas finales
 
 ## 1. ¿Qué te ayudaron a identificar las pruebas unitarias?
